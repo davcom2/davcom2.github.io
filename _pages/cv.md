@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* D.Phil in Medical Engineering (Identifying vital sign abnormality in acutely-ill patients), University of Oxford, 2011
+* M.Eng in Engineering Science (1st class), Brasenose College, University of Oxford, 2006
 
-Work experience
+Work History
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2023: Lecturer of Artificial Intelligence in Healthcare, University of Manchester
+* 2015-2019: Lecturer of Health Informatics, University of Leeds
+* 2011-2015: Post-Doctoral Research Fellow, Institute of Biomedical Engineering, University of Oxford
+* 2011-2015: Non-stipendiary Lecturer, Brasenose College, University of Oxford
   
-Skills
+Awards/Prizes
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Turing Fellow (2021-2023)
+* Deputy Chair, NIHR/NHSx AI Award funding panel
+* Computing in Cardiology / Physionet Challenge, 2nd Prize (2020)
+* Senior Hulme Scholar, Brasenose College, Oxford (2007-2011)
 
 Publications
 ======
