@@ -2,7 +2,7 @@
 title: "Outlier detection of vital sign trajectories from COVID-19 patients"
 collection: publications
 permalink: /publication/2023Summerton
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-07-22
 venue: 'Proc. of IEEE EMBC 2023, Sydney'
 paperurl: 'http://academicpages.github.io/files/2023Summerton.pdf'

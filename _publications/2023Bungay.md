@@ -41,5 +41,3 @@ amplitude can be measured from smartphone videos. In conjunction
 with tremor frequency, this approach could
 
 [Download paper here](http://academicpages.github.io/files/2023Bungay.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
